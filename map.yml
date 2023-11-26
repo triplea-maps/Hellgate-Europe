@@ -1,0 +1,4 @@
+map_name: Hellgate-Europe
+games:
+- {game_name: HellGate Europe 1944, file_name: Hellgate Europe1944.xml}
+version: 0
